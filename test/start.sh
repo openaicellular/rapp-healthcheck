@@ -60,3 +60,5 @@ while [ $retcode -ne 0 ]; do
         sleep 1
     fi
 done
+
+echo "Initiation successful"
